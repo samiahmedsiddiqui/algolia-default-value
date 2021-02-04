@@ -3,8 +3,7 @@
 	"name": "Algolia Default Value",
 	"srcdoc": "extension.html",
 	"fieldTypes": [
-		"Symbol",
-		"Integer"
+		"Symbol"
 	],
 	"parameters": {
 		"instance": [
