@@ -1,7 +1,7 @@
 {
 	"id": "algolia-default-value",
 	"name": "Algolia Default Value",
-	"srcdoc": "extension.html",
+	"srcdoc": "index.html",
 	"fieldTypes": [
 		"Symbol"
 	],
