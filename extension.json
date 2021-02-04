@@ -1,0 +1,34 @@
+{
+	"id": "default-field-value",
+	"name": "Default value for a field",
+	"srcdoc": "extension.html",
+	"fieldTypes": [
+		"Symbol",
+		"Integer"
+	],
+	"parameters": {
+		"instance": [
+			{
+				"id": "defaultAlgolia",
+				"name": "Default Algolia",
+				"description": "Set which value to use as the default algolia",
+				"type": "Enum",
+				"options": [
+					{
+						"12": "Blog"
+					},
+					{
+						"3": "Use-case"
+					},
+					{
+						"4": "Glossary"
+					}
+				],
+				"labels": {
+					"empty": "Choose a value"
+				},
+				"required": true
+			}
+		]
+	}
+}
