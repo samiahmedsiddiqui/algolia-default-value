@@ -2,6 +2,9 @@
 	"id": "algolia-default-value",
 	"name": "Algolia Default Value",
 	"srcdoc": "index.html",
+	"fieldTypes": [
+		"Symbol"
+	],
 	"parameters": {
 		"instance": [
 			{
