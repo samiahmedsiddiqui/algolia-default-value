@@ -3,7 +3,7 @@
 	"name": "Algolia Default Value",
 	"srcdoc": "index.html",
 	"fieldTypes": [
-		"Symbol"
+		"Symbol","Number"
 	],
 	"parameters": {
 		"instance": [
