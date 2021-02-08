@@ -2,16 +2,14 @@
 	"id": "algolia-default-value",
 	"name": "Algolia Default Value",
 	"srcdoc": "index.html",
-	"fieldTypes": [
-		"Number"
-	],
+	"fieldTypes": [{type: "Object"}],
 	"parameters": {
 		"instance": [
 			{
 				"id": "defaultAlgolia",
 				"name": "Default Algolia",
 				"description": "Set which value to use as the default algolia",
-				"type": "Enum",
+				"type": "Number",
 				"options": [
 					{
 						"12": "Blog"
