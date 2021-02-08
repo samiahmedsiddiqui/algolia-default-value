@@ -58,7 +58,7 @@
 				function keyboardInputHandler() {
 					var value = inputEl.value;
 
-					if (typeof value === 'number' && value.length > 0) {
+					if (value.length > 0) {
 						extension.field.setValue(value);
 					} else {
 						extension.field.removeValue();
