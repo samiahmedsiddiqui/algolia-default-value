@@ -46,7 +46,7 @@
 						inputEl.value = value;
 					}
 
-					if (/^#([a-f0-9]{3}){1,2}$/i.test(value)) {
+					if (/^([0-9]{3})$/i.test(value)) {
 						extension.field.setInvalid(false);
 						document.querySelector(".cf-form-field").style.borderLeft = "5px solid " + value;
 					} else {
