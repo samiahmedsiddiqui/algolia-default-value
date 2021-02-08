@@ -11,16 +11,13 @@
 				"type": "Number",
 				"options": [
 					{
-						"12": "Blog"
+						"blog": "12"
 					},
 					{
-						"3": "Use-case"
+						"Press": "03"
 					},
 					{
-						"4": "Glossary"
-					},
-					{
-						"5": "Press"
+						"News": "05"
 					}
 				],
 				"labels": {
