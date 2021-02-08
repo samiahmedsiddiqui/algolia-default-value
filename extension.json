@@ -14,13 +14,16 @@
 				"type": "Number",
 				"options": [
 					{
-						"blog": "12"
+						"12": "Blog"
 					},
 					{
-						"Press": "03"
+						"3": "Use-case"
 					},
 					{
-						"News": "05"
+						"4": "Glossary"
+					},
+					{
+						"5": "Press"
 					}
 				],
 				"labels": {
